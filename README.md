@@ -47,7 +47,11 @@ Wir danken dem <a href="http://podunion.com/podcaster/3541/toby-baier">Toby Baye
 
 ##Trailer 2013
 - https://github.com/C3ltaXMedia/Podwichteln-2012-2013/blob/master/2013/Podwichteln2013_112k.mp3?raw=true
-*Sprecher ist <a href="http://www.cafeleak.net/">Burny von Cafeleak</a>*
+- https://www.youtube.com/embed/w_aJ-cVA-wE
+*Sprecher der Trailer ist <a href="http://www.cafeleak.net/">Burny von Cafeleak</a>*<br>
+*Video Trailer von <a href="http://podunion.com/podcaster/ricofluethi/1680/rico-f-luthi">Rico F. Luthi</a>*
+
+
 
 <a href="http://podunion.com/podwichteln/podwichtel-organisations-team"><img src="http://podunion.com/wordpress/wp-content/uploads/2012/06/Logo-PodUnion-Web-s11.png"></a>
 
