@@ -21,7 +21,7 @@ Wesentlicher Vorteil des Wichtelns ist, dass durch die zufällige Zuordnung von 
 
 Deshalb soll diese alte analoge Tradition nun ins digitale Zeitalter übertragen werden. Wir schenken uns deshalb Geschenke in Form eines Podcasts den wir für einen anderen Podcast produzieren. So erstellt Podcast XYZ nicht seinen eigenen Podcast sondern tut so als ob er Podcast ABC wäre. Die Spannung bei alldem ist natürlich besonders gross, wenn man seinen eigenen Podcast durch fremde Personen gesprochen bekommt. Ein schöneres Geschenk kann es doch eigentlich gar nicht geben, oder?
 
-*Text von Lars <a href="http://teo-net.de/wordpress/">Engelmann aka HerrvonSpeck</a>*
+*Text von <a href="http://teo-net.de/wordpress/">Lars Engelmann (HerrvonSpeck)</a>*
 
 
 ###2012: gemacht von Toby Bayer - Einschlafen Podcast
@@ -30,7 +30,7 @@ Deshalb soll diese alte analoge Tradition nun ins digitale Zeitalter übertragen
 **Die Auflösung 2012**
 - http://einschlafen-podcast.de/2012/12/podwichtel-ergebnisse-und-auflosung/
 
-Image by <a href="https://github.com/McCouman?tab=repositories">Michael McCouman Jr.</a> für <a href="http://einschlafen-podcast.de/">Einschlafen Podcast</a>
+*Image by <a href="https://github.com/McCouman?tab=repositories">Michael McCouman Jr.</a> für <a href="http://einschlafen-podcast.de/">Einschlafen Podcast</a>*
 
 
 ###2013: macht vom PodUnion Orga Team - PodUnion
@@ -40,10 +40,10 @@ Image by <a href="https://github.com/McCouman?tab=repositories">Michael McCouman
 - http://podunion.com/podwichteln/die-wichtel
 - http://podunion.com/podwichteln/die-podcasts-und-ihre-wichtel
 
-Image gekauft von PodUnion und angepasst von <a href="https://twitter.com/ricoluethi">Rico F. Luethi</a>
+*Image gekauft von PodUnion und angepasst von <a href="https://twitter.com/ricoluethi">Rico F. Luethi</a>*
 
 ##Infos
-**Wir danken dem <a href="http://podunion.com/podcaster/3541/toby-baier">Toby Bayer</a> und dem <a href="http://podunion.com/podwichteln/podwichtel-organisations-team">Ora.-Team der PodUnion</a> und ihre Helfer für diese Aktion.**<br>
+**Wir danken <a href="http://podunion.com/podcaster/3541/toby-baier">Toby Bayer</a> und dem <a href="http://podunion.com/podwichteln/podwichtel-organisations-team">Ora.-Team der PodUnion</a> und ihre Helfer für diese Aktion.**<br>
 
 ####Trailer 2013
 - (Audio) https://github.com/C3ltaXMedia/Podwichteln-2012-2013/blob/master/2013/Podwichteln2013_112k.mp3?raw=true
