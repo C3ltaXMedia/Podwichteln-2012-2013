@@ -42,12 +42,13 @@ Image by <a href="https://github.com/McCouman?tab=repositories">Michael McCouman
 
 Image gekauft von PodUnion und angepasst von <a href="https://twitter.com/ricoluethi">Rico F. Luethi</a>
 
-##Infos:
+##Infos
 Wir danken dem <a href="http://podunion.com/podcaster/3541/toby-baier">Toby Bayer</a> und dem <a href="http://podunion.com/podwichteln/podwichtel-organisations-team">Ora.-Team der PodUnion</a> und ihre Helfer für diese Aktion.<br>
-
-<a href="http://podunion.com/podwichteln/podwichtel-organisations-team"><img src="http://podunion.com/wordpress/wp-content/uploads/2012/06/Logo-PodUnion-Web-s11.png"></a>
 
 ##Trailer 2013
 - https://github.com/C3ltaXMedia/Podwichteln-2012-2013/blob/master/2013/Podwichteln2013_112k.mp3?raw=true
 *Sprecher ist <a href="http://www.cafeleak.net/">Burny von Cafeleak</a>*
+
+<a href="http://podunion.com/podwichteln/podwichtel-organisations-team"><img src="http://podunion.com/wordpress/wp-content/uploads/2012/06/Logo-PodUnion-Web-s11.png"></a>
+
 
